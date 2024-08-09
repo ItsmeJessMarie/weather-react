@@ -22,7 +22,7 @@ export default function App() {
         >
           Open-source code {}
         </a>
-        by Jessica Boll
+        by Jessica Farnan
       </div>
     </div>
   );
